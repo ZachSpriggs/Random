@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: "Montserrat";
+}
+#logo {
+    width: 250px;
+}
+
+#about_logo{
+    max-width: 50%
+}
+
+#about_logo img{
+    max-width: 75%;
+    max-height: 100%;
+}
+
+html, body {
+    background-image: linear-gradient(to right, whitesmoke, rgb(223, 223, 223)) !important;
+    color: black !important;
+}
+
+.project_img{
+    max-width: 300px;
+}
+
+#about_info{
+    max-height: 60%;
+}
+
+.profile_pic{
+    height: 130px;
+    width: 130px;
+    box-shadow: 2px 2px 4px black;
+}
+
+.loginH2 {
+    color: black;
+}
+
+.btn .button-light .border-dark {
+    background-color: rgb(57, 192, 233) !important;
+}
+
+/* .project_page_img{
+    max-width: 100%
+} */
